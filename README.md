@@ -1,2 +1,2 @@
 # html-basico
-Treinando html
+Treinando habilidades básicas de html.
